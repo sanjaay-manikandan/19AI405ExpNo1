@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: VARUNRAAJI G </h3>
-<h3>Register Number: 212224060294
+<h3>Name: SANJAAY MANIKANDAN.M </h3>
+<h3>Register Number: 212224060231
 
 
 <h3>AIM:</h3>
